@@ -23,6 +23,7 @@
 | Course | Description |
 |--------|-------------|
 | [Introduction](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/introduction) | Intro to Basic Data Visualization |
+| [Data Preaparation](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/data-preparation) | Prepararing Data for Visualization |
 
 ## Intention
 
