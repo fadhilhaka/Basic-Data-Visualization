@@ -24,6 +24,7 @@
 |--------|-------------|
 | [Introduction](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/introduction) | Intro to Basic Data Visualization |
 | [Data Preparation](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/data-preparation) | Prepararing Data for Visualization |
+| [Formula](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/spreadsheet-formula) | Intro to Spreadsheet Formula |
 
 ## Intention
 
