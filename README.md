@@ -27,6 +27,7 @@
 | [Formula](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/spreadsheet-formula) | Intro to Spreadsheet Formula |
 | [Pivot Table](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/pivot-table) | Intro to Pivot Table |
 | [Data Transformation](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/data-transformation) | Intro to Visual Data Transformation |
+| [Presenting Quantitative Data Graphically](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/presenting-quantitative-data) | Presenting Quantitative Data Graphically |
 
 ## Intention
 
