@@ -26,6 +26,7 @@
 | [Data Preparation](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/data-preparation) | Prepararing Data for Visualization |
 | [Formula](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/spreadsheet-formula) | Intro to Spreadsheet Formula |
 | [Pivot Table](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/pivot-table) | Intro to Pivot Table |
+| [Data Transformation](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/data-transformation) | Intro to Visual Data Transformation |
 
 ## Intention
 
