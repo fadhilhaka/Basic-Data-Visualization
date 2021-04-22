@@ -30,6 +30,7 @@
 | [Presenting Quantitative Data Graphically](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/presenting-quantitative-data) | Presenting Quantitative Data Graphically |
 | [Data Provenance](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/data-provenance) | Data Provenance |
 | [Effective Visualization](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/effective-visualization) | Effective Visualization |
+| [Summary](https://github.com/fadhilhaka/Basic-Data-Visualization/tree/main/summary) | Summary |
 
 ## Intention
 
